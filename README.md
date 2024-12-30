@@ -2,7 +2,7 @@
 
 Hi there! I'm Lareina. This is a real-time facial expression classification system using a transformer-based multi-class classification model with PyTorch, MediaPipe for facial landmark extraction, and a pre-trained model for predictions.
 
-Everything you need to know is in `<src/emotorch.ipynb>`. Please check the notebook for implementation details.
+Everything you need to know is in <src emotorch.ipynb>. Please check the notebook for implementation details.
 
 ![Example Image](d30b670dd4e0181d74b7bc3449c7111.jpg)
 
